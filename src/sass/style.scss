@@ -1145,6 +1145,9 @@ h1, h2, h3, h4, h5, h6 {
   &--home {
     background: $dark;
   }
+  &--updates {
+    background: url("../img/hero-updates.jpg") center center/cover no-repeat;
+  }
   &--gallery {
     background: url("../img/hero-gallery.jpg") center center/cover no-repeat;
   }
